@@ -1,0 +1,31 @@
+
+Github Markdown Examples this is heading
+=====================
+textual Examples this second heading
+----------------------
+# this is another
+## way of creating heading
+### this also creates heading
+
+to requote someone else
+> use the angular bracket
+
+to have horizontal lines  use
+
+  dashesh
+----------------------------
+or stars
+
+*******
+or underscores
+______
+to link somthing combination of link text and url like this
+[GITHUB](http://github.com ) is awesome
+
+
+this is *italic*.
+this is **bold**.
+this is _italic_
+this is __bold__  
+this is ~~strikedout~~  
+use `initFunction()` inside ``backtick inside `back` example  ``    
