@@ -22,10 +22,35 @@ ______
 to link somthing combination of link text and url like this
 [GITHUB](http://github.com ) is awesome
 
+to add an image just like link ![]()
+![pratham](C:\Documnets personal\iphone backup\DCIM\100APPLE\IMG_0001.jpg)
 
-this is *italic*.
-this is **bold**.
-this is _italic_
-this is __bold__  
-this is ~~strikedout~~  
-use `initFunction()` inside ``backtick inside `back` example  ``    
+- this is *italic*.
+- this is **bold**.
+- this is _italic_
+- this is __bold__
+- this is ~~strikedout~~
+- use `initFunction()` inside ``backtick inside `back` example  ``
+- add code block by adding a tab
+      function init(){
+      //some code
+      }
+
+To create numbered list
+1. first
+    item can be added with a tab
+    to add code block add two tabs
+        function init(){
+            //some code
+        }
+2. second
+    1. nexting
+    2. list within
+3. Third
+
+Table can be created using pipes lie this
+First name | Last name  | city
+----------- | --------------- | ------
+Ruby    | Jha   | Belmont
+-------------|---------------|------  
+-------------|---------------|-----
